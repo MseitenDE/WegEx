@@ -3,7 +3,7 @@ This tool terminates all WebEx background processes the elegant way.
 
 ## Auto Quit
 - At the end of a meeting, all background tasks are automatically killed.
-- If WebEx is idle for longer than 10 minutes, a notification will appear in the Windows Notifications.
+- If WebEx is idle for more than 10 minutes, a notification will appear in the Windows Notifications.
 - If no WebEx processes are detected for 30 minutes, the user is asked to quit this app. (This is not WebEx, we do not want any background processes.)
 
 ## How it works
